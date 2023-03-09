@@ -1,0 +1,511 @@
+
+.chapter {
+    
+    background-color: #151515ea;
+    border: 1px solid #161616;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+
+  .chapter h1 {
+    
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    margin: 0;
+    background-color: wheat;
+  }
+  
+  .City {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    background-color: #f2f2f2;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+  }
+  
+  
+
+  .City h2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #3b2424;
+    margin: 0 0 20px 0;
+  }
+  
+ 
+  .City p {
+    font-size: 16px;
+    color: #4d4949;
+    margin: 0 0 10px 0;
+  }
+  
+  
+  .City span {
+    color: orange;
+    font-weight: bold;
+    font-size: 25px;
+  }
+  
+
+  #my-button {
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+
+
+  .Gender {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    background-color: #f2f2f2;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+  }
+  
+  
+
+  .Gender h2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #3b2424;
+    margin: 0 0 20px 0;
+  }
+  
+ 
+  .Gender p {
+    font-size: 16px;
+    color: #4d4949;
+    margin: 0 0 10px 0;
+  }
+  
+  
+  .Gender span {
+    color: orange;
+    font-weight: bold;
+    font-size: 25px;
+  }
+  
+
+  .Gender button {
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+
+  
+
+  .Signal {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    background-color: #f2f2f2;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+  }
+  
+  
+
+  .Signal h2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #3b2424;
+    margin: 0 0 20px 0;
+  }
+  
+ 
+  .Signal p {
+    font-size: 16px;
+    color: #4d4949;
+    margin: 0 0 10px 0;
+  }
+  
+  
+  .Signal span {
+    color: orange;
+    font-weight: bold;
+    font-size: 25px;
+  }
+  
+
+  .Signal button {
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .Check-fuel{
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    background-color: #f2f2f2;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+  }
+  
+  
+
+  .Check-fuel h2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #3b2424;
+    margin: 0 0 20px 0;
+  }
+  
+ 
+  .Check-fuel p {
+    font-size: 16px;
+    color: #4d4949;
+    margin: 0 0 10px 0;
+  }
+  
+  
+  .Check-fuel span {
+    color: orange;
+    font-weight: bold;
+    font-size: 25px;
+  }
+  
+
+  .Check-fuel button {
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+
+  .Output{
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    background-color: #f2f2f2;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+  }
+  
+  
+
+  .Output h2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #3b2424;
+    margin: 0 0 20px 0;
+  }
+  
+ 
+  .Output p {
+    font-size: 16px;
+    color: #4d4949;
+    margin: 0 0 10px 0;
+  }
+  
+  
+  .Output span {
+    color: orange;
+    font-weight: bold;
+    font-size: 25px;
+  }
+  .Output strong {
+  
+    font-weight: bold;
+    font-size: 25px;
+  }
+
+  .Game{
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    background-color: #f2f2f2;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+  }
+  
+  
+
+  .Game h2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #3b2424;
+    margin: 0 0 20px 0;
+  }
+  
+ 
+  .Game p {
+    font-size: 16px;
+    color: #4d4949;
+    margin: 0 0 10px 0;
+  }
+  
+  
+  .Game span {
+    color: orange;
+    font-weight: bold;
+    font-size: 25px;
+  }
+  
+
+  .Game button {
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+  .divide{
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    background-color: #f2f2f2;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+  }
+  
+  
+
+  .divide h2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #3b2424;
+    margin: 0 0 20px 0;
+  }
+  
+ 
+  .divide p {
+    font-size: 16px;
+    color: #4d4949;
+    margin: 0 0 10px 0;
+  }
+  
+  
+  .divide span {
+    color: orange;
+    font-weight: bold;
+    font-size: 25px;
+  }
+  
+
+  .divide button {
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  .even-odd{
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    background-color: #f2f2f2;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+  }
+  
+  
+
+  .even-odd h2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #3b2424;
+    margin: 0 0 20px 0;
+  }
+  
+ 
+  .even-odd p {
+    font-size: 16px;
+    color: #4d4949;
+    margin: 0 0 10px 0;
+  }
+  
+  
+  .even-odd span {
+    color: orange;
+    font-weight: bold;
+    font-size: 25px;
+  }
+  
+
+  .even-odd button {
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  .temprature{
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    background-color: #f2f2f2;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+  }
+  
+  
+
+  .temprature h2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #3b2424;
+    margin: 0 0 20px 0;
+  }
+  
+ 
+  .temprature p {
+    font-size: 16px;
+    color: #4d4949;
+    margin: 0 0 10px 0;
+  }
+  
+  
+  .temprature span {
+    color: orange;
+    font-weight: bold;
+    font-size: 25px;
+  }
+  
+
+  .temprature button {
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+  .calculator{
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    background-color: #f2f2f2;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+  }
+  
+  
+
+  .calculator h2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #3b2424;
+    margin: 0 0 20px 0;
+  }
+  
+ 
+  .calculator p {
+    font-size: 16px;
+    color: #4d4949;
+    margin: 0 0 10px 0;
+  }
+  
+  
+  .calculator span {
+    color: orange;
+    font-weight: bold;
+    font-size: 25px;
+  }
+  
+
+  .calculator button {
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+  .marksheet{
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    background-color: #f2f2f2;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+  }
+  
+  
+
+  .marksheet h2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #3b2424;
+    margin: 0 0 20px 0;
+  }
+  
+ 
+  .marksheet p {
+    font-size: 16px;
+    color: #4d4949;
+    margin: 0 0 10px 0;
+  }
+  
+  
+  .marksheet span {
+    color: orange;
+    font-weight: bold;
+    font-size: 25px;
+  }
+  
+
+  .marksheet button {
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
